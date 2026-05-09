@@ -1,0 +1,49 @@
+### Python ###
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+### 가상환경 (Virtual Environments) ###
+venv/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+### 환경 변수 및 설정 파일 ###
+.env
+.flaskenv
+instance/
+.pytest_cache/
+.coverage
+htmlcov/
+
+### IDE 설정 (VS Code, PyCharm 등) ###
+.vscode/
+.idea/
+*.swp
+*.swo
+
+### 데이터 및 로그 ###
+*.log
+# 만약 input.txt를 깃허브에 올리고 싶지 않다면 아래 주석을 해제하세요
+# input.txt
+
