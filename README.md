@@ -2,7 +2,7 @@ Hello, world.
 This is a repo for converting any hex values to binary and decimals.
 The python project would print the values in order.
 
-Usage:
+## Usage:
 ```shell
 python3 main.py
 
